@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on 我QQ呢？</title>
     <link>http://tyzrpvx.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on 我QQ呢？</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 May 2019 21:55:39 +0800</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>First</title>
+      <title>在这儿</title>
       <link>http://tyzrpvx.github.io/post/first/</link>
       <pubDate>Thu, 02 May 2019 21:55:39 +0800</pubDate>
       
       <guid>http://tyzrpvx.github.io/post/first/</guid>
-      <description>hihihi</description>
+      <description></description>
     </item>
     
   </channel>
